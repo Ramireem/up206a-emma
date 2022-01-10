@@ -17,4 +17,4 @@ This file from the California Dept. of Education shows all the school and distri
 
 [URL link](https://www.cde.ca.gov/ds/si/ds/pubschls.asp)
 
-[Repo link](https://github.com/Ramireem/up206a-emma/tree/main/data/Tree%20Canopy%20in%20Urban%20and%20Non-Urban%20LA%20County%20(2014))
+[Repo link](https://github.com/Ramireem/up206a-emma/blob/main/data/pubschls.xlsx)
