@@ -10,8 +10,11 @@ This shapefile obtained from the LA County's Open Data consists of a combination
 
 [URL link](data.lacounty.gov/Sustainability/Tree-Canopy-in-Urban-and-Non-Urban-LA-County-2014-/kf6c-hxgf)
 
-[Repo link](https://github.com/Ramireem/up206a-emma/blob/main/data/housing4_week39.xlsx)
+[Repo link](https://github.com/Ramireem/up206a-emma/tree/main/data/Tree%20Canopy%20in%20Urban%20and%20Non-Urban%20LA%20County%20(2014))
 
 ### Dataset #3: Public Schools and Districts in California
 This file from the California Dept. of Education shows all the school and districts in California. The data for LA county could be used in conjunction with the Tree Canopy cover dataset to assess which school are most vulnerable to heat exposure due to lack of tree coverage.
+
 [URL link](https://www.cde.ca.gov/ds/si/ds/pubschls.asp)
+
+[Repo link](https://github.com/Ramireem/up206a-emma/tree/main/data/Tree%20Canopy%20in%20Urban%20and%20Non-Urban%20LA%20County%20(2014))
